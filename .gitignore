@@ -1,0 +1,46 @@
+# Visual Studio Files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+out/
+
+# Packages
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Logs
+*.log
+logs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Generated files
+Generated/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.class
+*.idb
+*.ipch
+*.obj
+*.o
+*.so
+*.swp
+*.lock
